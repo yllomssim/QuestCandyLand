@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/ecf48c2e-a049-4014-91b0-9872a89d7d58)# QuestCandyLand
-
 <--  this description is a work in progress, and will be updated soon  -->
 
 <a href="https://yllomssim.itch.io/quest-candy-land-html">Click here</a> to play Quest: Candy Land now on itch.io! 
