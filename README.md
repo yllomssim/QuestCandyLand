@@ -1,5 +1,3 @@
-<--  this description is a work in progress, and will be updated soon  -->
-
 <a href="https://yllomssim.itch.io/quest-candy-land-html">Click here</a> to play Quest: Candy Land now on itch.io! 
 
 Gameplay overview:
